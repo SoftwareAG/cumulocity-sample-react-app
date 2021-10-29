@@ -10,7 +10,7 @@ Follow the below steps to create a react app.
  
  3.  In order to use Cumulocity Inventory Service, we need to install c8y/client in our react project.
   ```
-npm i c8y/client
+npm i @c8y/client
 ```
 3. Install your react library package into your react app project.
 ```
