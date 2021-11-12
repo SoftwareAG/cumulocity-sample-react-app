@@ -46,9 +46,7 @@ return (
  
 export  default  App;
 ```
- **NOTE:** The fetchClient and device id will be passed as an input from react app into the react library as below:
-  *<FetchDeviceDetails  fetchClient = {fetchClient}  id={'deviceId'}>	</FetchDeviceDetails>
-  *
+ 
   
 6. Run the command
 ```
