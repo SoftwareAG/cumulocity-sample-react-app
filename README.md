@@ -1,3 +1,4 @@
+
  ## Sample React App which uses react library to fetch and display device details. It also updates the device details by taking an input from the user.
 
 ### Create a react app
@@ -8,8 +9,7 @@ Follow the below steps to create a react app.
 ```
  npx create-react-app sample-app --template typescript
  ```
- 
- 3.  In order to use Cumulocity Inventory Service, we need to install c8y/client in our react project.
+ 3. Navigate inside the sample-app folder that gets created and run the below command in order to use Cumulocity Inventory Service, in react project.
   ```
 npm i @c8y/client@1009.0.19
 ```
