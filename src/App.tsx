@@ -1,6 +1,6 @@
 import './App.css';
 import { BasicAuth, Client } from '@c8y/client';
-import { FetchDeviceDetails } from 'sample-react-library-widget';
+import { FetchDeviceDetails } from 'sample-react-library';
 
 function App() {
   const auth = new BasicAuth({
